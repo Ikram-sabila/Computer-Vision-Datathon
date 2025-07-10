@@ -66,8 +66,8 @@ Model YOLOv8 memberikan hasil yang kuat dalam mendeteksi atribut keselamatan:
 
 | Lingkup            | Atribut yang Dideteksi                        | mAP\@0.5 |
 | ------------------ | --------------------------------------------- | -------- |
-| Pekerja Pabrik     | Masker, Sarung tangan, Sepatu, Kacamata, dll. | \~96%    |
-| Pekerja Konstruksi | Helm keselamatan, Rompi reflektif             | \~94%    |
+| Pekerja Pabrik     | Masker, Sarung tangan, Sepatu, Kacamata, dll. | \~98,6%  |
+| Pekerja Konstruksi | Helm keselamatan, Rompi reflektif             | \~96,3%  |
 
 > *Catatan: mAP berdasarkan hasil evaluasi selama pelatihan di dataset masing-masing.*
 
