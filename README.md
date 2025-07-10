@@ -75,3 +75,6 @@ Model YOLOv8 memberikan hasil yang kuat dalam mendeteksi atribut keselamatan:
 
 * Dataset diunduh otomatis via `gdown` (lihat dalam notebook).
 * Model disimpan dalam format `.pt` dan dapat digunakan langsung untuk inferensi.
+* colab:
+  1. https://colab.research.google.com/drive/1ajLWSFwHpcU7Gw7eIej6xvfuSj9wk4VN#scrollTo=uGPAPukYJFDY
+  2. https://colab.research.google.com/drive/18u8sVAnBEVIdh1UdCSPW4jFg_OBlGKTE?usp=sharing
